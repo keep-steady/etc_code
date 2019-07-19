@@ -7,5 +7,5 @@ lstm, many2many, pytorch로 구현
 4. many2many_pytorch_example.ipynb : rnn many2many example with pytorch
 5. Map_python_folium-checkpoint.ipynb : 파이썬 지리정보 시각화
 6. ransomeware_practice.ipynb : ransomeware 직접 짜보는 중
-
+7. Transformer_block.ipynb : pytorch, transformer block의 상세 annotation
 
