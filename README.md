@@ -9,3 +9,4 @@ lstm, many2many, pytorch로 구현
 6. ransomeware_practice.ipynb : ransomeware 직접 짜보는 중
 7. Transformer_block.ipynb : pytorch, transformer block의 상세 annotation
 8. pdf_sentence_correction_final.ipynb : pdf에서 추출된 텍스트 정제. - 긴문장 짤라주고, 짤린문장 이어주고, 4글자 미만은 버리고
+9. trash_check.ipynb : 폴더 안에서 .pdf or .html 파일 아닌것들 체크
