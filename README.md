@@ -11,6 +11,6 @@ lstm, many2many, pytorch로 구현
 8. pdf_sentence_correction_final.ipynb : pdf에서 추출된 텍스트 정제. - 긴문장 짤라주고, 짤린문장 이어주고, 4글자 미만은 버리고
 9. trash_check.ipynb : 폴더 안에서 .pdf or .html 파일 아닌것들 체크
 10. sentence_tokenizer.ipynb : 영어 문장 단위 분절, NLTK 성능이 더 좋다
-
+11. make_ann2conll_final.ipynb : ann 파일을 conll2003 포맷으로 변환시켜 준다
 
 
